@@ -4,6 +4,18 @@
 .page-top > h1 {
      font-size: 4em;
 }
-.page-top > p {
+.page-top > p {#pictures {
+     /* Needed for navbar link location */
+     padding-top:50px;
+}
+.carousel-inner > .item > img {
+     /* Center images */
+     margin: 0 auto;
+}
+.carousel-control.left, .carousel-control.right {
+     /* Remove default background image */
+     background-image: none;
+}
+
      font-size: 1.5em;
 }
