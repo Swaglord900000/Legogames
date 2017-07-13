@@ -8,6 +8,10 @@
      /* Needed for navbar link location */
      padding-top:50px;
 }
+#pictures {
+     /* Needed for navbar link location */
+     padding-top:50px;
+}
 .carousel-inner > .item > img {
      /* Center images */
      margin: 0 auto;
@@ -17,5 +21,3 @@
      background-image: none;
 }
 
-     font-size: 1.5em;
-}
